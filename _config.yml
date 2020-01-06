@@ -1,9 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 
 locale: "en-US"
-title                    : "Blitz.Dev"
+title                    : "&#9889; blitz.dev"
 title_separator          : "-"
-subtitle                 : "Patrick Blitz"
+subtitle                 : "tech musings"
 name                     : &name "Patrick Blitz" # &name is a YAML anchor which can be *referenced later
 description              : &description "."
 url                      : https://blitz.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -52,6 +52,9 @@ plugins:
 #year_archive:
 #  type: liquid
 #  path: /year-archive/
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 
 include:
   - .htaccess
