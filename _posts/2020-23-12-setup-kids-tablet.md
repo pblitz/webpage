@@ -11,6 +11,8 @@ Und richtig begleitet ist ein Smartphone oder Tablet für Kinder auch sehr sinnv
 
 Hier ein kurze Übersicht und Empfehlung, was ich (persönlich) empfehle. 
 
+![Tablet](./assets/images/tablet.jpg)
+
 **WICHTIG: das ist alles Stand DEZEMBER 2020** - informationen können veraltet sein!
 
 # Geräte und Betriebssystem Auswahl 
@@ -44,7 +46,7 @@ Luna Launcher ist ein einfacher, für Kinder optimierter Launcher (== die App di
 
 Dabei ist der Lunar Launcher etwas für die nächsten 1-2 Jahre, solange die normale Konfigurations und Bedienwelt von Android (oder iOS) noch zuviel für jemanden sind, der gerade erst Lesen lernt.
 
-Mehr dazum im [zweiten Artikel](./2020-23-12.kids-tablet-teil-2.md).
+Mehr dazum im [zweiten Artikel](./2020-23-12-kids-tablet-teil-2.md).
 
 
 ## Andere Software in der Auswahl
